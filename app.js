@@ -29,7 +29,7 @@ client.on('ready', async () => {
     }).catch(err => console.log(err));
   }
   else{
-    await client.setActivity({ // Setting the Rich Presence Activity based on what is passed in here.
+    await client.setActivity({ 
       buttons: config.buttons,
       details: config.details,
       state: config.state,
