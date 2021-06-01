@@ -1,0 +1,17 @@
+{
+	"buttons": [
+		{
+			"label": "LeJeu - Serveur Minecraft",
+			"url": "https://discord.gg/NuMxeZnXvy"
+		},{
+			"label": "Mon Profil GitHub",
+			"url": "https://github.com/Le-Thom"
+		}
+	],
+	"details": "Check mon GitHub pour obtenir",
+	"state": "le code source de mes programmes",
+	"largeImageKey": "thom",
+	"smallImageKey": "",
+
+	"ID": "653689618390056961"
+}
